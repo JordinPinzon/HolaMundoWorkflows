@@ -18,7 +18,7 @@ If you don't have Git installed, go to the official Git page and download it fro
 2. Clone the Repository from GitHub
 Open the terminal or command line on your computer and navigate to the folder where you want to clone the project. Then, use the following command:
 
-git clone https://github.com/JordinPinzon/HolaMundoHTML.git
+git clone git@github.com:JordinPinzon/HolaMundoWorkflows.git
 
 3. Install Docker
 If you do not have Docker installed, download and install it from https://www.docker.com/products/docker-desktop.
